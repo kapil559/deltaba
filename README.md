@@ -1,2 +1,2 @@
 # deltaba
-this is a new demo for gitbhub class
+this is a new demo for gitbhub class.
